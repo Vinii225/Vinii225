@@ -40,8 +40,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vinii225&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<p align="center" style="line-height: 0;">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Vinii225&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
-

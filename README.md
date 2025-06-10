@@ -8,40 +8,38 @@
 ---
 
 ### 📫 Contact
+- Linkedin: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 - Email: **vinicius.ares12@gmail.com**
-- Linkedin: **www.linkedin.com/in/vinícius-ares-a4b785333**
 ---
 
 ### 🛠️ Languages and Tools
 
 #### 🖥️ Front-End
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://skillicons.dev)
 
 #### ⚙️ Back-End
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
 #### 🗃️ Version Control
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 #### 🧰 Tools & IDE
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
 
 ---
 
 ### 📊 GitHub Stats
+<!-- 🔥 GitHub Streak (centralizado em cima) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinii225&theme=midnight-purple&hide_border=true" alt="Vinii225's Streak" />
+</p>
 
-![Vinii225's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinii225&theme=midnight-purple&hide_border=true)
-![Vinii225's Stats](https://github-readme-stats.vercel.app/api?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false)
-![Vinii225's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+<!-- 📈 Stats + 🌐 Top Languages (lado a lado embaixo) -->
+<p align="center" style="line-height: 0;">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" alt="Vinii225's Stats" />
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Vinii225's Top Languages" />
+</p>
+
 

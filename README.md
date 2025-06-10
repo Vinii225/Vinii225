@@ -40,7 +40,10 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center" style="line-height: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinii225&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<p align="center">
+![Vinii225's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinii225&theme=midnight-purple&hide_border=true)
+</p>
+<p>
+![Vinii225's Stats](https://github-readme-stats.vercel.app/api?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false)
+![Vinii225's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 </p>

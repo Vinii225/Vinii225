@@ -8,7 +8,6 @@
 ![Purple Divider](./purple-divider.svg)
 
 ### 📫 Contact
-- Linkedin: <br> <p> &emsp; [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/vinícius-ares-a4b785333) </p>
 - Email: **vinicius.ares12@gmail.com**
   
 ![Purple Divider](./purple-divider.svg)

@@ -9,7 +9,7 @@
 
 ### 📫 Contact
 - Email: **vinicius.ares12@gmail.com**
-
+- Linkedin: **www.linkedin.com/in/vinícius-ares-a4b785333**
 ---
 
 ### 🛠️ Languages and Tools

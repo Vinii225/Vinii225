@@ -42,7 +42,5 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinii225&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>

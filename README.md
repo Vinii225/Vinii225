@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinícius Ares Monteiro de Lima</h1>
+<h1 align="center">Hi 👋, I'm Vinícius Ares</h1>
 <h3 align="center">🎓 Student at IFPB and Unipê</h3>
 
 <p align="center">

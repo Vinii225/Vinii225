@@ -5,17 +5,13 @@
   <i>I enjoy solving problems, learning new technologies, and building practical solutions through code.</i>
 </p>
 
-<p align="center">
-  <img src="./purple-divider.svg" alt="purple divider" width="100%" />
-</p>
+![Purple Divider](./purple-divider.svg)
 
 ### 📫 Contact
 - Linkedin: <br> <p> &emsp; [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/vinícius-ares-a4b785333) </p>
 - Email: **vinicius.ares12@gmail.com**
   
-<p align="center">
-  <img src="./purple-divider.svg" alt="purple divider" width="100%" />
-</p>
+![Purple Divider](./purple-divider.svg)
 
 ### 🛠️ Languages and Tools
 
@@ -32,9 +28,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=vscode)
 
-<p align="center">
-  <img src="./purple-divider.svg" alt="purple divider" width="100%" />
-</p>
+![Purple Divider](./purple-divider.svg)
 
 ### 📊 GitHub Stats
 <!-- 🔥 GitHub Streak (centralizado em cima) -->

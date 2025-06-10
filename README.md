@@ -9,7 +9,6 @@
 ---
 
 ### 🛠️ Languages and Tools
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" widht="40" height="40"/> <!-- Python -->  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" widht="40" height="40" /> <!-- Java -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" widht="40" height="40" /> <!-- HTML -->

@@ -8,25 +8,24 @@
 ---
 
 ### 📫 Contact
-- Linkedin: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+- Linkedin: [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/vinícius-ares-a4b785333)
 - Email: **vinicius.ares12@gmail.com**
 ---
 
 ### 🛠️ Languages and Tools
 
 #### 🖥️ Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)]
 
 #### ⚙️ Back-End
-[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java)]
 
 #### 🗃️ Version Control
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)]
 
 #### 🧰 Tools & IDE
 
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=vscode)]
 
 ---
 
@@ -41,5 +40,3 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" alt="Vinii225's Stats" />
   <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Vinii225's Top Languages" />
 </p>
-
-

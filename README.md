@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vinícius Ares Monteiro de Lima</h1>
 <h3 align="center">🎓 Student at IFPB and Unipê</h3>
 
+<p align="center">
+  I enjoy solving problems, learning new technologies, and building practical solutions through code.
+</p>
+
 ---
 
 ### 📫 Contact
@@ -9,18 +13,18 @@
 ---
 
 ### 🛠️ Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" widht="40" height="40"/> <!-- Python -->  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" widht="40" height="40" /> <!-- Java -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" widht="40" height="40"/> <!-- HTML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" widht="40" height="40"/> <!-- CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> <!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="40" height="40"/> <!-- Github -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> <!-- Visual Studio Code -->
-                                                  
-          
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Vinii225&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>

@@ -5,12 +5,12 @@
   <i>I enjoy solving problems, learning new technologies, and building practical solutions through code.</i>
 </p>
 
-![Purple Divider](./purple-divider.svg)
+<img src="purple-divider.svg" style="width:100%;display:block;">
 
 ### 📫 Contact
 - Email: **vinicius.ares12@gmail.com**
   
-![Purple Divider](./purple-divider.svg)
+<img src="purple-divider.svg" style="width:100%;display:block;">
 
 ### 🛠️ Languages and Tools
 
@@ -27,7 +27,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=vscode)
 
-![Purple Divider](./purple-divider.svg)
+<img src="purple-divider.svg" style="width:100%;display:block;">
 
 ### 📊 GitHub Stats
 <!-- 🔥 GitHub Streak (centralizado em cima) -->

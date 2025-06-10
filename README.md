@@ -8,24 +8,24 @@
 ---
 
 ### 📫 Contact
-- Linkedin: [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/vinícius-ares-a4b785333)
+- Linkedin: <br> <p> &emsp; [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/vinícius-ares-a4b785333) </p>
 - Email: **vinicius.ares12@gmail.com**
 ---
 
 ### 🛠️ Languages and Tools
 
 #### 🖥️ Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)
 
 #### ⚙️ Back-End
-[![My Skills](https://skillicons.dev/icons?i=python,java)]
+![My Skills](https://skillicons.dev/icons?i=python,java)
 
 #### 🗃️ Version Control
-[![My Skills](https://skillicons.dev/icons?i=git,github)]
+![My Skills](https://skillicons.dev/icons?i=git,github)
 
 #### 🧰 Tools & IDE
 
-[![My Skills](https://skillicons.dev/icons?i=vscode)]
+![My Skills](https://skillicons.dev/icons?i=vscode)
 
 ---
 

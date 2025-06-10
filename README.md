@@ -2,10 +2,7 @@
 <h3 align="center">Student from IFPB and Unipê</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinícius ares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinícius ares" height="30" width="40" /></a>
-<a href="https://instagram.com/vinicius_ar3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicius_ar3s" height="30" width="40" /></a>
-</p>
+<p>Contact: vinicius.ares12@gmail.com</p>
 
 <h3 align="left">Languages and Tools:</h3>
 

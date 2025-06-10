@@ -40,10 +40,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+
 ![Vinii225's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinii225&theme=midnight-purple&hide_border=true)
-</p>
-<p>
 ![Vinii225's Stats](https://github-readme-stats.vercel.app/api?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false)
 ![Vinii225's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-</p>
+

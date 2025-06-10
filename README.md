@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Student at IFPB and Unipê</h3>
 
 <p align="center">
-  I enjoy solving problems, learning new technologies, and building practical solutions through code.
+  <i>I enjoy solving problems, learning new technologies, and building practical solutions through code.</i>
 </p>
 
 ---

@@ -36,19 +36,11 @@
   <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Vinii225's Top Languages" />
 </p>
 
-<!-- Alternative purple-themed contribution chart -->
+<!-- 🐍 GitHub Contribution Snake Animation (Purple Theme) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinii225&bg_color=0d1117&color=8b5cf6&line=a855f7&point=c084fc&area=true&hide_border=true&theme=github-compact" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
-<!-- 📊 Detailed Contribution Calendar with Purple Theme -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/8b5cf6/Vinii225" alt="Vinii225's Github chart" />
-</p>
-
-<!-- 🐍 GitHub Contribution Snake Animation -->
-<div align="center">
-  
-![Snake animation](https://github.com/Vinii225/Vinii225/blob/output/github-contribution-grid-snake.svg)
-
-</div>

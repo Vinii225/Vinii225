@@ -36,9 +36,9 @@
   <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Vinii225's Top Languages" />
 </p>
 
-<!-- 🐍 GitHub Contribution Snake Animation (Purple Theme) -->
+<!-- 🐍 GitHub Contribution Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vinii225/Vinii225/output/github-contribution-grid-snake-purple.svg" alt="Purple Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <!-- Alternative purple-themed contribution chart -->

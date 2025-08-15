@@ -38,7 +38,12 @@
 
 <!-- Alternative purple-themed contribution chart -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinii225&bg_color=0d1117&color=8b5cf6&line=a855f7&point=c084fc&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinii225&bg_color=0d1117&color=8b5cf6&line=a855f7&point=c084fc&area=true&hide_border=true&theme=github-compact" alt="Contribution Graph" />
+</p>
+
+<!-- 📊 Detailed Contribution Calendar with Purple Theme -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/8b5cf6/Vinii225" alt="Vinii225's Github chart" />
 </p>
 
 <!-- 🐍 GitHub Contribution Snake Animation -->

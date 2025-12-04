@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinícius Ares</h1>
 
 <p align="center"><i> Enjoying to learn new technologies</i> <br />
-VS Code / IntelliJ</p>
+VS Code</p>
 
 <img src="purple-divider.svg" width="100%" height="6">
 

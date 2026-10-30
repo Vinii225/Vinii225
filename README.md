@@ -1,41 +1,65 @@
-<h1 align="center">Hi 👋, I'm Vinícius Ares</h1>
+<p align="right"><sub><a href="README.md"><b>EN</b></a> &nbsp;|&nbsp; <a href="README.pt-BR.md">PT-BR</a></sub></p>
 
-<p align="center"><i> Enjoying to learn new technologies</i> <br />
-VS Code</p>
+<h1 align="center">Vinícius Ares</h1>
 
-<img src="purple-divider.svg" width="100%" height="6">
+<p align="center">Computer Science Student &nbsp;·&nbsp; Internet Systems Student</p>
 
-### 🛠️ Languages and Tools
+<img src="divider.svg" width="100%" height="4">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
+<h3 align="center">About me</h3>
 
-<img src="purple-divider.svg" width="100%" height="6">
-
-### 📊 GitHub Stats
-<!-- 🔥 GitHub Streak (centralizado em cima) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinii225&theme=midnight-purple&hide_border=true" alt="Vinii225's Streak" />
+  I am a <b>Computer Science</b> and <b>Internet Systems</b> student.<br />
+  I am always exploring new technologies.
 </p>
 
-<!-- 📈 Stats + 🌐 Top Languages (lado a lado embaixo) -->
-<p align="center" style="line-height: 0;">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" alt="Vinii225's Stats" />
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinii225&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Vinii225's Top Languages" />
+<img src="divider.svg" width="100%" height="4">
+
+<h3 align="center">Tech stack</h3>
+
+<p align="center">
+  <sub><b>LANGUAGES</b></sub><br /><br />
+  <img src="https://skillicons.dev/icons?theme=dark&i=java,python,js,ts,groovy,html,css" alt="Languages" />
 </p>
 
+<p align="center">
+  <sub><b>FRAMEWORKS & LIBRARIES</b></sub><br /><br />
+  <img src="https://skillicons.dev/icons?theme=dark&i=spring,hibernate,react,tailwind,vite" alt="Frameworks & Libraries" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vinii225&no-frame=true&no-bg=false&margin-w=4&title_color=9745f5&text_color=FFFFFF&icon_color=000000&bg_color=000000&border_color=9745f5)
+<p align="center">
+  <sub><b>DATABASE & BUILD</b></sub><br /><br />
+  <img src="https://skillicons.dev/icons?theme=dark&i=postgres,maven,gradle,docker" alt="Database & Build" />
+</p>
 
+<p align="center">
+  <sub><b>TOOLS</b></sub><br /><br />
+  <img src="https://skillicons.dev/icons?theme=dark&i=git,vscode,arch,vercel,canva" alt="Tools" />
+</p>
 
-<!-- 🐍 GitHub Contribution Snake Animation (Purple Theme) -->
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinii225/Vinii225/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinii225/Vinii225/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vinii225/Vinii225/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="divider.svg" width="100%" height="4">
+
+<h3 align="center">GitHub stats</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vinii225&hide_border=true&background=0D1117&ring=B794F6&fire=B794F6&currStreakLabel=B794F6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vinii225/Vinii225/output/stats.svg" alt="Stats" height="170" />
+  <img src="https://raw.githubusercontent.com/Vinii225/Vinii225/output/top-langs.svg" alt="Top languages" height="170" />
+</p>
+
+<h3 align="center">Trophies</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vinii225/Vinii225/output/trophies.svg" alt="Trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinii225/Vinii225/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinii225/Vinii225/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Vinii225/Vinii225/output/pacman-contribution-graph.svg">
+  </picture>
+</p>

@@ -2,6 +2,10 @@
 
 <p align="center">Computer Science Student &nbsp;·&nbsp; Internet Systems Student</p>
 
+<p align="center">
+  <a href="https://vinii225.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-vinii225.github.io%2Fportfolio-B794F6?style=flat-square&labelColor=0D1117" alt="Portfolio" /></a>
+</p>
+
 <img src="divider.svg" width="100%" height="4">
 
 <h3 align="center">Tech stack</h3>
